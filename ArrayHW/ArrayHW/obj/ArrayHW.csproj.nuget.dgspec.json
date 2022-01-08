@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Git\\GitRepos\\array1\\array1\\array1.csproj": {}
+    "C:\\Users\\Shuva\\source\\repos\\ArrayHW\\ArrayHW\\ArrayHW.csproj": {}
   },
   "projects": {
-    "G:\\Git\\GitRepos\\array1\\array1\\array1.csproj": {
+    "C:\\Users\\Shuva\\source\\repos\\ArrayHW\\ArrayHW\\ArrayHW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Git\\GitRepos\\array1\\array1\\array1.csproj",
-        "projectName": "array1",
-        "projectPath": "G:\\Git\\GitRepos\\array1\\array1\\array1.csproj",
+        "projectUniqueName": "C:\\Users\\Shuva\\source\\repos\\ArrayHW\\ArrayHW\\ArrayHW.csproj",
+        "projectName": "ArrayHW",
+        "projectPath": "C:\\Users\\Shuva\\source\\repos\\ArrayHW\\ArrayHW\\ArrayHW.csproj",
         "packagesPath": "C:\\Users\\Shuva\\.nuget\\packages\\",
-        "outputPath": "G:\\Git\\GitRepos\\array1\\array1\\obj\\",
+        "outputPath": "C:\\Users\\Shuva\\source\\repos\\ArrayHW\\ArrayHW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,14 @@
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\bin\Debug\netcoreapp3.1\ArrayHW.exe
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\bin\Debug\netcoreapp3.1\ArrayHW.deps.json
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\bin\Debug\netcoreapp3.1\ArrayHW.runtimeconfig.json
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\bin\Debug\netcoreapp3.1\ArrayHW.runtimeconfig.dev.json
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\bin\Debug\netcoreapp3.1\ArrayHW.dll
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\bin\Debug\netcoreapp3.1\ArrayHW.pdb
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\obj\Debug\netcoreapp3.1\ArrayHW.csproj.AssemblyReference.cache
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\obj\Debug\netcoreapp3.1\ArrayHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\obj\Debug\netcoreapp3.1\ArrayHW.AssemblyInfoInputs.cache
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\obj\Debug\netcoreapp3.1\ArrayHW.AssemblyInfo.cs
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\obj\Debug\netcoreapp3.1\ArrayHW.csproj.CoreCompileInputs.cache
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\obj\Debug\netcoreapp3.1\ArrayHW.dll
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\obj\Debug\netcoreapp3.1\ArrayHW.pdb
+C:\Users\Shuva\source\repos\ArrayHW\ArrayHW\obj\Debug\netcoreapp3.1\ArrayHW.genruntimeconfig.cache
